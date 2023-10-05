@@ -6,13 +6,13 @@
 
 ![](https://github.com/yuantianle/Numerical_Modeling-Oct2020/blob/main/Demo_Images/Stability_Region_of_Trapezoidal_Method.png)
 
-## Project 2 - Logistic growth model
+## Project 2 - Logistic Growth Model
 
 [Document](https://github.com/yuantianle/Numerical_Modeling-Oct2020/blob/main/Project2_Logistic_growth_model.pdf)
 
 ![](https://github.com/yuantianle/Numerical_Modeling-Oct2020/blob/main/Demo_Images/Logistic_Growth_Model.png)
 
-## Project 3 - Trapezoidal Rule
+## Project 3 - Heat Equation Solutions (ODE32S/ODE45)
 
 [Document](https://github.com/yuantianle/Numerical_Modeling-Oct2020/blob/main/Project3_Heat_equation_ODE.pdf)
 
